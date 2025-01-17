@@ -4,7 +4,7 @@
 I am a Full Stack Magento Developer and Tech enthusiast. I am passionate about technologies and love to learn new things.
 
 
-#### <img src="https://raw.githubusercontent.com/vishalthakurit/vishalthakurit.github.io/master/assets/work.png" width="18"> I’m currently working as Software Developer | Sr. Magento Developer | Capgemini Technology Services India Limited.
+#### <img src="https://raw.githubusercontent.com/vishalthakurit/vishalthakurit.github.io/master/assets/work.png" width="18"> I’m currently working as a Sr. Magento Developer | Capgemini Technology Services India Limited.
 
 
 ## <img src="https://raw.githubusercontent.com/vishalthakurit/vishalthakurit.github.io/master/assets/code.png" width="24"> Tech Stack
